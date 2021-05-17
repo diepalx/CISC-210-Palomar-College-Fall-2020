@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Connects\ with\ BinarySearchTree\r\n\ \r\n\ @author\ Alexander\ Diep\r\n\ @version\ 12/6/20\r\n
+comment1.params=
+comment1.target=Node()
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=obj
+comment2.target=Node(java.lang.Comparable)
+comment2.text=\r\n\ Default\ Constructor\r\n
+numComments=3

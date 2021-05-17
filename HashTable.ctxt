@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HashTable
+comment0.text=\r\n\ Using\ the\ common_file.txt,\ find\ the\ words\ that\ are\ commonly\ used\ and\ \r\n\ check\ for\ Collisions\r\n\ \r\n\ @author\ Alexander\ Diep\r\n\ @version\ 12/6/20\r\n
+comment1.params=
+comment1.target=HashTable()
+comment1.text=\r\n\ Checks\ the\ hamlet.txt\ file,with\ the\ commonly\ used\ text\ file\ to\ see\ which\ \r\n\ words\ show\ up\ multiple\ times\r\n\ \r\n\ @hashTable\r\n\ @collisions\r\n
+comment2.params=word
+comment2.target=int\ hash(java.lang.String)
+comment2.text=\r\n\ Used\ to\ convert\ a\ word\ to\ a\ number\ to\ be\ used\ in\ collisions\r\n\ \r\n\ @total\r\n\ @decimal\r\n
+comment3.params=word
+comment3.target=java.lang.Boolean\ find(java.lang.String)
+comment3.text=\r\n\ linear\ probing\ used\ to\ search\ the\ hash\ table\r\n\ \r\n\ @key\r\n\ @hashTable\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ hash\ table\ is\ traversed\ for\ word\ output\ and\ the\ word\ count\r\n\ \r\n\ @word_count\r\n\ @hashTable\r\n
+numComments=5

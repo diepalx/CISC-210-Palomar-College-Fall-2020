@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WordCount
+comment0.text=\r\n\ Word\ count\ helps\ Circular\ list\ with\ counting\ the\ text\ file\r\n\ \r\n\ @author\ Alexander\ Diep\r\n\ @version\ 12/8/20\r\n
+comment1.params=other
+comment1.target=int\ compareTo(WordCount)
+comment1.text=\r\n\ Compares\ the\ the\ text\ file\ that\ is\ given\ \r\n\ \r\n\ @return\r\n
+comment2.params=w\ line
+comment2.target=WordCount(java.lang.String,\ int)
+comment2.text=\ \r\n\ constructor\ with\ circularList\ of\ one\ item\r\n\ \r\n\ @lineNums\r\n\ @lineNums.append\r\n
+comment3.params=
+comment3.target=void\ incrementCount()
+comment3.text=\r\n\ increment\ the\ count\ \r\n\ \r\n\ @count++\r\n
+comment4.params=
+comment4.target=WordCount()
+comment4.text=\r\n\ Links\ with\ Circular\ List\ to\ be\ Appended\r\n\ \r\n\ @word\ \r\n\ @lineNums\r\n
+comment5.params=w
+comment5.target=WordCount(java.lang.String)
+comment5.text=\r\n\ Links\ with\ Circular\ List\ so\ that\ the\ words\ can\ be\ counted\r\n\ \r\n\ @word\r\n\ @lineNums\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ String\ is\ needed\ to\ compare\ the\ CircularList\r\n\ \r\n\ @toString\r\n
+numComments=7

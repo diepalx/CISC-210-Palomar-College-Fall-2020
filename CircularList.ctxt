@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CircularList
+comment0.text=\r\n\ Links\ with\ WordCount\ and\ Item\ to\ produce\ the\ counting\ of\ words\ and\ \r\n\ which\ line\ it\ corresponds\ to\ \r\n\ \r\n\ @author\ Alexander\ Diep\r\n\ @version\ 12/6/20\r\n
+comment1.params=
+comment1.target=CircularList()
+comment1.text=\r\n\ default\ Constructor\r\n
+comment2.params=
+comment2.target=java.lang.Boolean\ isEmpty()
+comment2.text=\r\n\ deafult\ Constructor\r\n
+comment3.params=x
+comment3.target=void\ append(int)
+comment3.text=\r\n\ helps\ with\ linking\ with\ WordCount\ and\ Item\r\n\ \r\n\ @Item\r\n\ @list\r\n
+comment4.params=
+comment4.target=int\ lastLine()
+comment4.text=\r\n\ checks\ the\ list\ if\ empty,\ return\ zero.\ \r\n\ otherwise,\ return\ the\ last\ appended\ item's\ info\ field\r\n\ \r\n\ @isEmpty\r\n\ @list.info\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Builds\ the\ list\ to\ be\ printed\ out\ and\ is\ linked\ with\ WordCount\r\n\ \r\n\ @isEmpty\r\n\ @s.append\r\n
+numComments=6

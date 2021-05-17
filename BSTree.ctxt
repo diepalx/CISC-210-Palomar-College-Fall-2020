@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BSTree
+comment0.text=\r\n\ Helps\ link\ with\ Node<E>\ and\ BinaryTreeSearch\r\n\ \r\n\ @author\ Alexander\ Diep\r\n\ @version\ 12/6/20\r\n
+comment1.params=
+comment1.target=BSTree()
+comment1.text=\r\n\ Default\ Constructor\r\n
+comment2.params=obj
+comment2.target=void\ insertBST(java.lang.Comparable)
+comment2.text=\r\n\ BinarySearchTree\ is\ inserted\ and\ checks\ to\ see\ if\ it\r\n\ exists\ or\ not\ \r\n\ \r\n\ @newNode\r\n\ @lag.left\r\n\ @lag.right\r\n
+comment3.params=obj
+comment3.target=java.lang.Comparable\ find(java.lang.Comparable)
+comment3.text=\r\n\ Finds\ object\ in\ the\ BinarySearchTree\r\n\ \r\n\ @findNode\r\n\ @root\r\n\ @r.right\r\n\ @r.left\r\n
+comment4.params=r\ sb
+comment4.target=void\ intrav(Node,\ java.lang.StringBuilder)
+comment4.text=\r\n\ Node\ is\ Traversed\ in\ the\ BinarySearchTree\r\n\r\n\ @intrav\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ String\ is\ Built\ within\ the\ BinarySearchTree\r\n\ \r\n\ @StringBuilder\r\n\ @sb.toString\r\n
+numComments=6
